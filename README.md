@@ -49,7 +49,7 @@ For the sake of our experiments, we will be focusing on using networks that were
 | Created (updated) 	| 2009 ( 2014 )                           	| 2019                                    	|
 | Format            	| Images                                	| Images                                  	|
 | Default Task      	| Object recognition, scene recognition 	| Object recognition, texture recognition 	|
-| Authors           	| J. Deng et al.                        	| V. Deng et al.                          	|
+| Authors           	| J. Deng et al.                        	| V. Prabhu et al.                          	|
 
 The images in the Ginger_tri dataset are available in [64 x 64 Pixel](https://github.com/matthew-mcateer/Ginger_tri/raw/master/ginger_tri_64x64.zip), [128 x 128 Pixel](https://github.com/matthew-mcateer/Ginger_tri/raw/master/ginger_tri_128x128.zip), [256 x 256 Pixel](https://github.com/matthew-mcateer/Ginger_tri/raw/master/ginger_tri_256x256.zip), and [512 x 512 Pixel](https://github.com/matthew-mcateer/Ginger_tri/raw/master/ginger_tri_512x512.zip) formats.
 
