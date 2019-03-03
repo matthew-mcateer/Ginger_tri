@@ -13,7 +13,7 @@ This project is a result of a collaboration with the team at [UnifyID](https://u
 | Architecture 	| Train Acc. 	| Val Acc. 	| Model(`.hdf5` file)   	| Training Logs (`.log` file) 	| Best Version (`.hdf5` file) 	|
 |--------------	|------------	|----------	|-----------------------	|-----------------------------	|-----------------------------	|
 | InceptionV3  	| 97.51%      	| 99.87%    	| [Google Drive Link](https://drive.google.com/file/d/11PwyV7bgFE16rE1HsUCHbMqfdBRgg3PI/view?usp=sharing) 	| [Google Drive Link](https://drive.google.com/file/d/1EBekmHQRahzoFv3xE-pInhts0XvwIG1L/view?usp=sharing)       	| [Google Drive Link](https://drive.google.com/file/d/101YsYoOqhF7DHqfQUHJ9lqMFjZr8vVuA/view?usp=sharing)       	|
-| NASNet       	| 94.98%      	| 89.20%    	| [Google Drive Link](https://drive.google.com/file/d/1NUVRCgkhsgbDl9Sdm31gxS5q5KkERB3H/view?usp=sharing) 	| [Google Drive Link](https://drive.google.com/file/d/1G3gPKxALb4WVSyb2e7a8j_l0gDMavugH/view?usp=sharing)       	| [Google Drive Link](https://drive.google.com/file/d/1tCkiPduW5GQmwRd_j52tv7xZnul48rM4/view?usp=sharing)       	|
+| NASNetMobile       	| 94.98%      	| 89.20%    	| [Google Drive Link](https://drive.google.com/file/d/1NUVRCgkhsgbDl9Sdm31gxS5q5KkERB3H/view?usp=sharing) 	| [Google Drive Link](https://drive.google.com/file/d/1G3gPKxALb4WVSyb2e7a8j_l0gDMavugH/view?usp=sharing)       	| [Google Drive Link](https://drive.google.com/file/d/1tCkiPduW5GQmwRd_j52tv7xZnul48rM4/view?usp=sharing)       	|
 
 ## Project Description
 This repo provides a new dataset for object recogntion, as well as a framework for running and testing transfer learning strategies.
